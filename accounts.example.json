@@ -1,0 +1,5 @@
+[
+  { "user": "someone@outlook.com", "passwordEnv": "MAIL_OUTLOOK_PASSWORD", "deleteFromServer": false },
+  { "user": "someone@gmail.com",   "passwordEnv": "MAIL_GMAIL_PASSWORD",   "deleteFromServer": true },
+  { "user": "someone@example.org", "server": "imap.example.org",          "deleteFromServer": false }
+]
